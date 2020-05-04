@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="catalog_18029937.css"?> 
+
+<Page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ 		xsi:noNamespaceSchemaLocation="catalog_18029937.xsd">
+	<BackgroundImage>
+		<Logo></Logo>
+		<Shop ID = "25602">
+			<ShopName> Alpha Auto Resellers </ShopName>
+ 		 </Shop>
+
+		<slogan> Car For All Budgets. Affordable And Like New. </slogan>
+	</BackgroundImage>
+
+	<body>
+		<Car id="01">  
+	 		
+			<block1>
+			 <Image1></Image1>
+				<About>
+	 	       		<h1>Tesla Roadster</h1>
+	 					<Description>
+	 						Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab esse ea perspiciatis pariatur molestiae vel incidunt consequuntur in quas, ad fugit sapiente unde laborum quasi laboriosam est, ex sequi eveniet?
+						</Description>
+				</About>
+				</block1>
+
+				<block2>
+	 			<spec1> 
+						<h2>Features</h2>
+						<Manufacturer ref="101">Brand: Tesla </Manufacturer>
+			 			<Model> Model: Roadster </Model>
+			 			<Type type="Sports"> Car Type: Sports </Type>
+			 			<SeatCapacity> Seat Capacity: 4 Seaters </SeatCapacity>
+			 			<Length> Length: 182.7 inches </Length>
+			 			<Width> Width: 89.8 inches </Width>
+			 			<Height> Height: 40.9 inches </Height>
+						 </spec1>
+						 <spec2>
+			 			<Weight> Weight: 875 Kilograms </Weight>
+			 			<Power> Power: 1kg per horsepower </Power>
+			 			<Performance> Performance Points: 699 PP </Performance>
+			 			<Displacement> Displacement: 3,200 cc </Displacement>
+			 			<MaxPower> MaxPower: 8,000 rpm </MaxPower>
+			 			<Fuel> Fuel: 110-Octane </Fuel>
+			 			<Colour> Colour: White </Colour>
+			 			<Quantity> Quantity : 2 </Quantity>
+			 			<Price unit="$"> Price: 850K </Price>
+				</spec2>
+				<int1></int1>	
+				</block2>
+	 	 	</Car>
+
+ 		<Car id="02"> 
+		
+		 <block1>
+			<Image2></Image2>	 
+				<About>
+	 				<h1> 2020 Ferrari Sf 90 Stradale </h1>
+	 					<Description>
+	 					Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam aut sit modi enim ut dolorem quaerat! Quidem qui, libero fugiat explicabo distinctio nulla rerum, ipsum ea reprehenderit voluptatem quae molestias!
+	 					</Description>
+	 			</About>
+				 </block1>
+
+				 <block2>
+	 			<spec1>
+					<h2> Features</h2> 
+			 			<Manufacturer ref="202"> Brand: Ferrari </Manufacturer>
+			 			<Model> Model: Sf 90 Stradale </Model>
+			 			<Type type="Sports"> Car Type: Sports </Type>
+			 			<SeatCapacity> Seat Capacity: 2 Seaters </SeatCapacity>
+			 			<Length> Length: 188.7 inches </Length>
+			 			<Width> Weidth: 79.8 inches </Width>
+						 </spec1>
+						 <spec2>
+			 			<Height> Height: 44.9 inches </Height>
+			 			<Weight> Weight: 1575 Kilograms </Weight>
+			 			<Power> Power: 500lbs per horsepower </Power>
+			 			<Performance> Performance Points: 699 PP </Performance>
+			 			<Displacement> Displacement: 6,498 cc </Displacement>
+			 			<MaxPower> MaxPower: 8,250 rpm </MaxPower>
+			 			<Fuel> Fuel: 110-Octane </Fuel>
+			 			<Colour> Colour: Orange </Colour>
+			 			<Quantity> Quantity : 5 </Quantity>
+			 			<Price unit="€"> Price: 393K </Price>
+				</spec2>
+				<int2></int2>
+	 		</block2>
+			 </Car>
+
+		<Car id="03">
+		<block1>
+			<Image3></Image3>
+		
+		 		<About>
+ 					<h1> Mazada 6</h1>
+ 					<Description>
+ 						Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis delectus quod saepe qui rerum illo distinctio sequi, consequuntur libero possimus, necessitatibus vel ullam minus dolorem eveniet nam deleniti aperiam ipsum!
+ 					</Description>	
+ 				</About>
+				 </block1>
+				 <block2>
+ 				<spec1>
+					<h2> Features</h2> 
+		 			<Manufacturer ref="303"> Brand: Mazda Motor </Manufacturer>
+		 			<Model> Model: 6 </Model>
+		 			<Type type="Hatchback"> Car Type: Sedan </Type>
+		 			<SeatCapacity> Seat Capacity: 4 Seaters </SeatCapacity>
+		 			<Length> Length: 182.7 inches </Length>
+		 			<Width> Weidth: 89.8 inches </Width>
+		 			<Height> Height: 40.9 inches </Height>
+					 </spec1>
+					 <spec2>
+		 			<Weight> Weight: 875 Kilograms </Weight>
+		 			<Power> Power: 2lbs per horsepower </Power>
+		 			<Performance> Performance Points: 850 PP </Performance>
+		 			<Displacement> Displacement: 3,200 cc </Displacement>
+		 			<MaxPower> MaxPower: 5,000 rpm </MaxPower>
+		 			<Fuel> Fuel: Electric </Fuel>
+		 			<Colour> Colour: Silver </Colour>
+		 			<Quantity> Quantity : 3 </Quantity>
+		 			<Price unit="£"> Price: 850K </Price>
+				</spec2>
+				<int3></int3>
+ 			</block2>
+			 </Car>
+
+ 		<Car id="04"> 
+		 
+		 <block1>
+	 		<Image4></Image4>
+		 	
+				<About>
+ 				<h1> Mazda MX-5 Miata </h1>
+ 					<Description>
+ 						Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis earum animi facere repudiandae facilis ratione possimus! Explicabo neque, quasi dolorem rem quo nobis, magni, libero minima facilis aut omnis? Ut.
+ 					</Description>
+ 				</About>
+				 </block1>
+				 <block2>
+ 				<spec1> 
+					<h2>Features</h2> 
+			 			<Manufacturer ref="404"> Brand: Mazda </Manufacturer>
+			 			<Model> Model: MX-5 Miata </Model>
+			 			<Type type="Hatchback" > Car Type: Sports </Type>
+			 			<SeatCapacity> Seat Capacity: 2 Seaters </SeatCapacity>
+			 			<Length> Length: 182.7 inches </Length>
+			 			<Width> Weidth: 89.8 inches </Width>
+			 			<Height> Height: 40.9 inches </Height>
+						 </spec1>
+						 <spec2>
+			 			<Weight> Weight: 875 Kilograms </Weight>
+			 			<Power> Power: 550lbs per horsepower </Power>
+			 			<Performance> Performance Points: 699 PP </Performance>
+			 			<Displacement> Displacement: 2,995 cc </Displacement>
+			 			<MaxPower> MaxPower: 6,400 rpm </MaxPower>
+			 			<Fuel> Fuel: Petrol </Fuel>
+			 			<Colour> Colour: White </Colour>
+			 			<Quantity> Quantity : 2 </Quantity>
+			 			<Price unit="$"> Price: 85,200K </Price>
+						 </spec2>
+				<int4></int4>
+ 			</block2>
+			 </Car>
+
+
+		<Car id="05">  
+		<block1>
+		  	<Image5></Image5>
+				<About>
+ 			 	<h1>Range Rover</h1>
+ 			 		<Description>
+ 						Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate quo, quibusdam a odio temporibus alias, dolore eos nobis aspernatur quia nesciunt consequuntur dolorum voluptatum unde reprehenderit. Quasi sint sunt autem?
+ 					</Description>
+ 				</About>
+				 </block1>
+				 <block2>
+ 				<spec1> 
+					<h2> Features </h2>
+				 		<Manufacturer ref="505"> Brand: Land Rover</Manufacturer>
+				 		<Model> Model: Range Rover </Model>
+				 		<Type> Car Type: Ultra Luxury SUV </Type>
+				 		<SeatCapacity> Seat Capacity: 4 Seaters </SeatCapacity>
+				 		<Length> Length: 226.7 inches </Length>
+				 		<Width> Weidth: 79.8 inches </Width>
+				 		<Height> Height: 64.8 inches </Height>
+						 </spec1>
+						 <spec2>
+				 		<Weight> Weight: 2560 Kilograms </Weight>
+				 		<Power> Power: 1kg per horsepower </Power>
+				 		<Performance> Performance Points: 563 hp </Performance>
+				 		<Displacement> Displacement: 3,200 cc </Displacement>
+				 		<MaxPower> Max Power: 5,000 rpm </MaxPower>
+				 		<Fuel> Fuel: 110-Octane </Fuel>
+				 		<Colour> Colour: maroon </Colour>
+				 		<Quantity> Quantity : 2 </Quantity>
+				 		<Price unit="$"> Price: 450K </Price>
+				</spec2>
+				<int5></int5>
+ 			</block2>
+			 </Car>
+	</body>
+ 
+	<Footer>
+		<logos></logos>
+		<container>
+ 		<Address country="Nepal"> Address: KTM </Address>
+ 		<TelephoneNumber> Telephone: +161801478023</TelephoneNumber>
+ 		<WebsiteURL> alphamotors.com </WebsiteURL>
+		</container>
+		<follow></follow>
+	</Footer>
+
+</Page>
